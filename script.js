@@ -271,4 +271,4 @@ class PixelCanvas extends HTMLElement {
     }
 }
 
-PixelCanvas.register();git status
+PixelCanvas.register();
